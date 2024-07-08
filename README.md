@@ -1,4 +1,4 @@
-[![Build Status](http://13.234.34.124:8080/buildStatus/icon?job=freestyle)](http://13.234.34.124:8080/job/freestyle/)
+[![Build Status](http://localhost:8080/buildStatus/icon?job=tomcat+-+deployment)](http://localhost:8080/job/tomcat%20-%20deployment/) 
 # Sample Maven Application: maven-employee-web-application
 maven-employee-web-application.
 
